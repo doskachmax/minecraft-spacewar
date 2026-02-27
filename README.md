@@ -5,5 +5,6 @@ npm install
 
 For Host:
   node index.js host
+  
 For Client:
   node index.js client <targetSteamId>
