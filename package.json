@@ -1,0 +1,16 @@
+{
+    "name": "minecraft-spacewar-proxy",
+    "version": "1.0.0",
+    "description": "P2P Proxy for Minecraft over Steam Spacewar",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "steamworks.js": "^0.4.0"
+    }
+}
